@@ -26,3 +26,6 @@ pnpm-debug.log*
 # pagefind
 
 public/pagefind
+
+# Quantized models
+public/models/Xenova/all-MiniLM-L6-v2/onnx/
